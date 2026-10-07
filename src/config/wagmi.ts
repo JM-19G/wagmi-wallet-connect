@@ -1,4 +1,3 @@
-import { http, createConfig } from "wagmi";
 import { sepolia } from "wagmi/chains";
 import { createAppKit } from "@reown/appkit/react";
 import { WagmiAdapter } from "@reown/appkit-adapter-wagmi";
